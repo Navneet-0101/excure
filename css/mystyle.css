@@ -1,0 +1,25 @@
+.search
+{
+    cursor: pointer;
+}
+.book{
+    font-size: 1em;
+    color: #fff !important;
+    background: #FF5722;
+    border: 1px solid;
+    text-align: center;
+    padding: 0.8em 2.5em;
+    font-weight: 300;
+    letter-spacing: 2px;
+    font-family: 'Oswald', sans-serif;
+    -webkit-transition: .5s linear;
+    -moz-transition: .5s linear;
+    transition: .5s linear;
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /*width: 50%;*/
+}
